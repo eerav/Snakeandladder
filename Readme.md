@@ -1,4 +1,4 @@
-##Snake and Ladder Game - Mini Porject
+Snake and Ladder Game - Mini Porject
 - HTML - Canva
 - CSS
 - JS
